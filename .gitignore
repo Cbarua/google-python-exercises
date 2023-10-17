@@ -1,0 +1,5 @@
+babynames/*.summary
+copyspecial/*.zip
+copyspecial/tmp
+logpuzzle/animal
+logpuzzle/place
